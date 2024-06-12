@@ -1,0 +1,14 @@
+R:\Works\SEM 3\DotNet\C#\FirstCode\FirstCode\bin\Debug\net8.0\FirstCode.exe
+R:\Works\SEM 3\DotNet\C#\FirstCode\FirstCode\bin\Debug\net8.0\FirstCode.deps.json
+R:\Works\SEM 3\DotNet\C#\FirstCode\FirstCode\bin\Debug\net8.0\FirstCode.runtimeconfig.json
+R:\Works\SEM 3\DotNet\C#\FirstCode\FirstCode\bin\Debug\net8.0\FirstCode.dll
+R:\Works\SEM 3\DotNet\C#\FirstCode\FirstCode\bin\Debug\net8.0\FirstCode.pdb
+R:\Works\SEM 3\DotNet\C#\FirstCode\FirstCode\obj\Debug\net8.0\FirstCode.GeneratedMSBuildEditorConfig.editorconfig
+R:\Works\SEM 3\DotNet\C#\FirstCode\FirstCode\obj\Debug\net8.0\FirstCode.AssemblyInfoInputs.cache
+R:\Works\SEM 3\DotNet\C#\FirstCode\FirstCode\obj\Debug\net8.0\FirstCode.AssemblyInfo.cs
+R:\Works\SEM 3\DotNet\C#\FirstCode\FirstCode\obj\Debug\net8.0\FirstCode.csproj.CoreCompileInputs.cache
+R:\Works\SEM 3\DotNet\C#\FirstCode\FirstCode\obj\Debug\net8.0\FirstCode.dll
+R:\Works\SEM 3\DotNet\C#\FirstCode\FirstCode\obj\Debug\net8.0\refint\FirstCode.dll
+R:\Works\SEM 3\DotNet\C#\FirstCode\FirstCode\obj\Debug\net8.0\FirstCode.pdb
+R:\Works\SEM 3\DotNet\C#\FirstCode\FirstCode\obj\Debug\net8.0\FirstCode.genruntimeconfig.cache
+R:\Works\SEM 3\DotNet\C#\FirstCode\FirstCode\obj\Debug\net8.0\ref\FirstCode.dll

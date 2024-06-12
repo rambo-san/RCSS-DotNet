@@ -1,0 +1,14 @@
+R:\Works\SEM 3\DotNet\C#\Mobile\Mobile\obj\Debug\net8.0\Mobile.GeneratedMSBuildEditorConfig.editorconfig
+R:\Works\SEM 3\DotNet\C#\Mobile\Mobile\obj\Debug\net8.0\Mobile.AssemblyInfoInputs.cache
+R:\Works\SEM 3\DotNet\C#\Mobile\Mobile\obj\Debug\net8.0\Mobile.AssemblyInfo.cs
+R:\Works\SEM 3\DotNet\C#\Mobile\Mobile\obj\Debug\net8.0\Mobile.csproj.CoreCompileInputs.cache
+R:\Works\SEM 3\DotNet\C#\Mobile\Mobile\bin\Debug\net8.0\Mobile.exe
+R:\Works\SEM 3\DotNet\C#\Mobile\Mobile\bin\Debug\net8.0\Mobile.deps.json
+R:\Works\SEM 3\DotNet\C#\Mobile\Mobile\bin\Debug\net8.0\Mobile.runtimeconfig.json
+R:\Works\SEM 3\DotNet\C#\Mobile\Mobile\bin\Debug\net8.0\Mobile.dll
+R:\Works\SEM 3\DotNet\C#\Mobile\Mobile\bin\Debug\net8.0\Mobile.pdb
+R:\Works\SEM 3\DotNet\C#\Mobile\Mobile\obj\Debug\net8.0\Mobile.dll
+R:\Works\SEM 3\DotNet\C#\Mobile\Mobile\obj\Debug\net8.0\refint\Mobile.dll
+R:\Works\SEM 3\DotNet\C#\Mobile\Mobile\obj\Debug\net8.0\Mobile.pdb
+R:\Works\SEM 3\DotNet\C#\Mobile\Mobile\obj\Debug\net8.0\Mobile.genruntimeconfig.cache
+R:\Works\SEM 3\DotNet\C#\Mobile\Mobile\obj\Debug\net8.0\ref\Mobile.dll

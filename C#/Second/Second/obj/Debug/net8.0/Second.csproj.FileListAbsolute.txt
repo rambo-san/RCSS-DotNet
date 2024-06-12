@@ -1,0 +1,14 @@
+R:\Works\SEM 3\DotNet\C#\Second\Second\bin\Debug\net8.0\Second.exe
+R:\Works\SEM 3\DotNet\C#\Second\Second\bin\Debug\net8.0\Second.deps.json
+R:\Works\SEM 3\DotNet\C#\Second\Second\bin\Debug\net8.0\Second.runtimeconfig.json
+R:\Works\SEM 3\DotNet\C#\Second\Second\bin\Debug\net8.0\Second.dll
+R:\Works\SEM 3\DotNet\C#\Second\Second\bin\Debug\net8.0\Second.pdb
+R:\Works\SEM 3\DotNet\C#\Second\Second\obj\Debug\net8.0\Second.GeneratedMSBuildEditorConfig.editorconfig
+R:\Works\SEM 3\DotNet\C#\Second\Second\obj\Debug\net8.0\Second.AssemblyInfoInputs.cache
+R:\Works\SEM 3\DotNet\C#\Second\Second\obj\Debug\net8.0\Second.AssemblyInfo.cs
+R:\Works\SEM 3\DotNet\C#\Second\Second\obj\Debug\net8.0\Second.csproj.CoreCompileInputs.cache
+R:\Works\SEM 3\DotNet\C#\Second\Second\obj\Debug\net8.0\Second.dll
+R:\Works\SEM 3\DotNet\C#\Second\Second\obj\Debug\net8.0\refint\Second.dll
+R:\Works\SEM 3\DotNet\C#\Second\Second\obj\Debug\net8.0\Second.pdb
+R:\Works\SEM 3\DotNet\C#\Second\Second\obj\Debug\net8.0\Second.genruntimeconfig.cache
+R:\Works\SEM 3\DotNet\C#\Second\Second\obj\Debug\net8.0\ref\Second.dll
