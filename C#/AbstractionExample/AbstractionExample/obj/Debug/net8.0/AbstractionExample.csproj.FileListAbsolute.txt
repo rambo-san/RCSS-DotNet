@@ -1,0 +1,15 @@
+R:\Works\SEM 3\DotNet\C#\AbstractionExample\AbstractionExample\bin\Debug\net8.0\AbstractionExample.exe
+R:\Works\SEM 3\DotNet\C#\AbstractionExample\AbstractionExample\bin\Debug\net8.0\AbstractionExample.deps.json
+R:\Works\SEM 3\DotNet\C#\AbstractionExample\AbstractionExample\bin\Debug\net8.0\AbstractionExample.runtimeconfig.json
+R:\Works\SEM 3\DotNet\C#\AbstractionExample\AbstractionExample\bin\Debug\net8.0\AbstractionExample.dll
+R:\Works\SEM 3\DotNet\C#\AbstractionExample\AbstractionExample\bin\Debug\net8.0\AbstractionExample.pdb
+R:\Works\SEM 3\DotNet\C#\AbstractionExample\AbstractionExample\obj\Debug\net8.0\AbstractionExample.GeneratedMSBuildEditorConfig.editorconfig
+R:\Works\SEM 3\DotNet\C#\AbstractionExample\AbstractionExample\obj\Debug\net8.0\AbstractionExample.AssemblyInfoInputs.cache
+R:\Works\SEM 3\DotNet\C#\AbstractionExample\AbstractionExample\obj\Debug\net8.0\AbstractionExample.AssemblyInfo.cs
+R:\Works\SEM 3\DotNet\C#\AbstractionExample\AbstractionExample\obj\Debug\net8.0\AbstractionExample.csproj.CoreCompileInputs.cache
+R:\Works\SEM 3\DotNet\C#\AbstractionExample\AbstractionExample\obj\Debug\net8.0\AbstractionExample.sourcelink.json
+R:\Works\SEM 3\DotNet\C#\AbstractionExample\AbstractionExample\obj\Debug\net8.0\AbstractionExample.dll
+R:\Works\SEM 3\DotNet\C#\AbstractionExample\AbstractionExample\obj\Debug\net8.0\refint\AbstractionExample.dll
+R:\Works\SEM 3\DotNet\C#\AbstractionExample\AbstractionExample\obj\Debug\net8.0\AbstractionExample.pdb
+R:\Works\SEM 3\DotNet\C#\AbstractionExample\AbstractionExample\obj\Debug\net8.0\AbstractionExample.genruntimeconfig.cache
+R:\Works\SEM 3\DotNet\C#\AbstractionExample\AbstractionExample\obj\Debug\net8.0\ref\AbstractionExample.dll
