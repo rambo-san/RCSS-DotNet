@@ -1,0 +1,15 @@
+R:\Works\SEM 3\DotNet\C#\EnumExample\EnumExample\bin\Debug\net8.0\EnumExample.exe
+R:\Works\SEM 3\DotNet\C#\EnumExample\EnumExample\bin\Debug\net8.0\EnumExample.deps.json
+R:\Works\SEM 3\DotNet\C#\EnumExample\EnumExample\bin\Debug\net8.0\EnumExample.runtimeconfig.json
+R:\Works\SEM 3\DotNet\C#\EnumExample\EnumExample\bin\Debug\net8.0\EnumExample.dll
+R:\Works\SEM 3\DotNet\C#\EnumExample\EnumExample\bin\Debug\net8.0\EnumExample.pdb
+R:\Works\SEM 3\DotNet\C#\EnumExample\EnumExample\obj\Debug\net8.0\EnumExample.GeneratedMSBuildEditorConfig.editorconfig
+R:\Works\SEM 3\DotNet\C#\EnumExample\EnumExample\obj\Debug\net8.0\EnumExample.AssemblyInfoInputs.cache
+R:\Works\SEM 3\DotNet\C#\EnumExample\EnumExample\obj\Debug\net8.0\EnumExample.AssemblyInfo.cs
+R:\Works\SEM 3\DotNet\C#\EnumExample\EnumExample\obj\Debug\net8.0\EnumExample.csproj.CoreCompileInputs.cache
+R:\Works\SEM 3\DotNet\C#\EnumExample\EnumExample\obj\Debug\net8.0\EnumExample.sourcelink.json
+R:\Works\SEM 3\DotNet\C#\EnumExample\EnumExample\obj\Debug\net8.0\EnumExample.dll
+R:\Works\SEM 3\DotNet\C#\EnumExample\EnumExample\obj\Debug\net8.0\refint\EnumExample.dll
+R:\Works\SEM 3\DotNet\C#\EnumExample\EnumExample\obj\Debug\net8.0\EnumExample.pdb
+R:\Works\SEM 3\DotNet\C#\EnumExample\EnumExample\obj\Debug\net8.0\EnumExample.genruntimeconfig.cache
+R:\Works\SEM 3\DotNet\C#\EnumExample\EnumExample\obj\Debug\net8.0\ref\EnumExample.dll
