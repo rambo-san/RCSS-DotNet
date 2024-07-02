@@ -1,0 +1,15 @@
+R:\Works\SEM 3\DotNet\C#\SumDel\SumDel\bin\Debug\net8.0\SumDel.exe
+R:\Works\SEM 3\DotNet\C#\SumDel\SumDel\bin\Debug\net8.0\SumDel.deps.json
+R:\Works\SEM 3\DotNet\C#\SumDel\SumDel\bin\Debug\net8.0\SumDel.runtimeconfig.json
+R:\Works\SEM 3\DotNet\C#\SumDel\SumDel\bin\Debug\net8.0\SumDel.dll
+R:\Works\SEM 3\DotNet\C#\SumDel\SumDel\bin\Debug\net8.0\SumDel.pdb
+R:\Works\SEM 3\DotNet\C#\SumDel\SumDel\obj\Debug\net8.0\SumDel.GeneratedMSBuildEditorConfig.editorconfig
+R:\Works\SEM 3\DotNet\C#\SumDel\SumDel\obj\Debug\net8.0\SumDel.AssemblyInfoInputs.cache
+R:\Works\SEM 3\DotNet\C#\SumDel\SumDel\obj\Debug\net8.0\SumDel.AssemblyInfo.cs
+R:\Works\SEM 3\DotNet\C#\SumDel\SumDel\obj\Debug\net8.0\SumDel.csproj.CoreCompileInputs.cache
+R:\Works\SEM 3\DotNet\C#\SumDel\SumDel\obj\Debug\net8.0\SumDel.sourcelink.json
+R:\Works\SEM 3\DotNet\C#\SumDel\SumDel\obj\Debug\net8.0\SumDel.dll
+R:\Works\SEM 3\DotNet\C#\SumDel\SumDel\obj\Debug\net8.0\refint\SumDel.dll
+R:\Works\SEM 3\DotNet\C#\SumDel\SumDel\obj\Debug\net8.0\SumDel.pdb
+R:\Works\SEM 3\DotNet\C#\SumDel\SumDel\obj\Debug\net8.0\SumDel.genruntimeconfig.cache
+R:\Works\SEM 3\DotNet\C#\SumDel\SumDel\obj\Debug\net8.0\ref\SumDel.dll

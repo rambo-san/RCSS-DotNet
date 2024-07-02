@@ -1,0 +1,15 @@
+R:\Works\SEM 3\DotNet\C#\DelegateOpr\DelegateOpr\bin\Debug\net8.0\DelegateOpr.exe
+R:\Works\SEM 3\DotNet\C#\DelegateOpr\DelegateOpr\bin\Debug\net8.0\DelegateOpr.deps.json
+R:\Works\SEM 3\DotNet\C#\DelegateOpr\DelegateOpr\bin\Debug\net8.0\DelegateOpr.runtimeconfig.json
+R:\Works\SEM 3\DotNet\C#\DelegateOpr\DelegateOpr\bin\Debug\net8.0\DelegateOpr.dll
+R:\Works\SEM 3\DotNet\C#\DelegateOpr\DelegateOpr\bin\Debug\net8.0\DelegateOpr.pdb
+R:\Works\SEM 3\DotNet\C#\DelegateOpr\DelegateOpr\obj\Debug\net8.0\DelegateOpr.GeneratedMSBuildEditorConfig.editorconfig
+R:\Works\SEM 3\DotNet\C#\DelegateOpr\DelegateOpr\obj\Debug\net8.0\DelegateOpr.AssemblyInfoInputs.cache
+R:\Works\SEM 3\DotNet\C#\DelegateOpr\DelegateOpr\obj\Debug\net8.0\DelegateOpr.AssemblyInfo.cs
+R:\Works\SEM 3\DotNet\C#\DelegateOpr\DelegateOpr\obj\Debug\net8.0\DelegateOpr.csproj.CoreCompileInputs.cache
+R:\Works\SEM 3\DotNet\C#\DelegateOpr\DelegateOpr\obj\Debug\net8.0\DelegateOpr.sourcelink.json
+R:\Works\SEM 3\DotNet\C#\DelegateOpr\DelegateOpr\obj\Debug\net8.0\DelegateOpr.dll
+R:\Works\SEM 3\DotNet\C#\DelegateOpr\DelegateOpr\obj\Debug\net8.0\refint\DelegateOpr.dll
+R:\Works\SEM 3\DotNet\C#\DelegateOpr\DelegateOpr\obj\Debug\net8.0\DelegateOpr.pdb
+R:\Works\SEM 3\DotNet\C#\DelegateOpr\DelegateOpr\obj\Debug\net8.0\DelegateOpr.genruntimeconfig.cache
+R:\Works\SEM 3\DotNet\C#\DelegateOpr\DelegateOpr\obj\Debug\net8.0\ref\DelegateOpr.dll
