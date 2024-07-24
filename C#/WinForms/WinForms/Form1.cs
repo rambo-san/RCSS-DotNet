@@ -1,3 +1,5 @@
+using System.Data;
+
 namespace WinForms
 {
     public partial class Form1 : Form
@@ -5,6 +7,24 @@ namespace WinForms
         public Form1()
         {
             InitializeComponent();
+            LoadData();
+        }
+        private void LoadData()
+        {
+            DataTable dt = new DataTable("MyTable");
+            DataColumn c1 = new DataColumn("ID",typeof(int));
+            DataColumn c2 = new DataColumn("Name",typeof(string));
+            DataColumn c3 = new DataColumn("Age", typeof(int));
+            dt.Columns.Add(c1);
+            dt.Columns.Add(c2);
+            dt.Columns.Add(c3);
+
+            DataRow dr = dt.NewRow();
+            dr["ID"] = 1;
+            dr["Name"] = "Sunny";
+            dr["Age"] = 23;
+
+            dt.Rows.Add(dr);
         }
 
         private void Form1_Load(object sender, EventArgs e)

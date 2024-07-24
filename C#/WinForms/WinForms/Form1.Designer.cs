@@ -44,6 +44,8 @@
             password = new TextBox();
             register = new Button();
             label8 = new Label();
+            dataGridView1 = new DataGridView();
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
             // fname
@@ -197,12 +199,21 @@
             label8.Text = "REGISTRATION FORM";
             label8.Click += label8_Click;
             // 
+            // dataGridView1
+            // 
+            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridView1.Location = new Point(273, 439);
+            dataGridView1.Name = "dataGridView1";
+            dataGridView1.Size = new Size(372, 213);
+            dataGridView1.TabIndex = 16;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.WindowText;
-            ClientSize = new Size(800, 459);
+            ClientSize = new Size(800, 749);
+            Controls.Add(dataGridView1);
             Controls.Add(label8);
             Controls.Add(register);
             Controls.Add(label6);
@@ -223,6 +234,7 @@
             Name = "Form1";
             Text = "Form1";
             Load += Form1_Load;
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -245,5 +257,6 @@
         private TextBox password;
         private Button register;
         private Label label8;
+        private DataGridView dataGridView1;
     }
 }
